@@ -1,2 +1,2 @@
-# cute_kodama_app
-Cute CSS app with Kodama
+# cute_scroller
+Cute CSS app with scroller from codepen
